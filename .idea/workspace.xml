@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dad0ea2f-091b-4109-b4e5-9de7198b4fe3" name="Default" comment="Added more helpers. Fixed directory structure">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-192x192.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-36x36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-48x48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/android-chrome-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-114x114.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-120x120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-152x152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-180x180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-57x57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-60x60.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-72x72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-76x76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon-precomposed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicon-194x194.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicon-96x96.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/mstile-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/mstile-150x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/mstile-310x150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/mstile-310x310.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/mstile-70x70.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/browserconfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/safari-pinned-tab.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/flexbox-grid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/flexbox-grid.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/flexbox-grid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/flexbox-grid.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/dist/stylesheet.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/auto-resize.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/combinding.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/flexible-columns.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/footer.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/full-width.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/grid-align-bottom.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/grid-align-center.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/grid-align-top.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/gridception.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/header.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/individual-alignment.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/invidual-sizing.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/no-gutter.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/offset.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/responsive-content.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/reverse.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/set-col-first.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/set-col-last.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/includes/text-alignment.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/jade/index.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/components/block.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/components/button.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/components/card.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/components/code.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/components/footer.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/components/jumbotron.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/components/link.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/components/section.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/functions/opacity.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/imports.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/libs/fix.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/libs/reset.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/mixins/bem.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/mixins/transition.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/stylesheet.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/type.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/stylus/variables.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylus/components/col.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylus/components/grid.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylus/components/row.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylus/components/text.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylus/flexbox-grid.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylus/mixins/bem.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylus/mixins/grid-framework.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylus/mixins/helpers.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stylus/variables.styl" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/dist/stylesheet.min.css" afterPath="$PROJECT_DIR$/assets/css/app.css" />
+    </list>
+    <ignored path="flexbox-grid.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="flexbox-grid" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7414579">
+              <caret line="133" column="4" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/resources/temp.html" />
+        <option value="$PROJECT_DIR$/resources/stylus/mixins/opacity.styl" />
+        <option value="$PROJECT_DIR$/resources/stylus/functions/opacity.styl" />
+        <option value="$PROJECT_DIR$/resources/stylus/stylesheet.styl" />
+        <option value="$PROJECT_DIR$/resources/stylus/variables.styl" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/analytics.jade" />
+        <option value="$PROJECT_DIR$/docs/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/dist/flexbox-grid.css" />
+        <option value="$PROJECT_DIR$/stylus/flexbox-grid.styl" />
+        <option value="$PROJECT_DIR$/docs/dist/stylesheet.min.css" />
+        <option value="$PROJECT_DIR$/stylus/components/align.styl" />
+        <option value="$PROJECT_DIR$/resources/jade/index.jade" />
+        <option value="$PROJECT_DIR$/dist/flexbox-grid.min.css" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/stylus/components/col.styl" />
+        <option value="$PROJECT_DIR$/stylus/components/grid.styl" />
+        <option value="$PROJECT_DIR$/stylus/components/row.styl" />
+        <option value="$PROJECT_DIR$/stylus/components/text.styl" />
+        <option value="$PROJECT_DIR$/stylus/mixins/grid-framework.styl" />
+        <option value="$PROJECT_DIR$/stylus/mixins/helpers.styl" />
+        <option value="$PROJECT_DIR$/resources/stylus/components/block.styl" />
+        <option value="$PROJECT_DIR$/resources/stylus/components/button.styl" />
+        <option value="$PROJECT_DIR$/resources/stylus/components/card.styl" />
+        <option value="$PROJECT_DIR$/resources/stylus/components/code.styl" />
+        <option value="$PROJECT_DIR$/resources/stylus/components/footer.styl" />
+        <option value="$PROJECT_DIR$/resources/stylus/components/jumbotron.styl" />
+        <option value="$PROJECT_DIR$/resources/stylus/components/link.styl" />
+        <option value="$PROJECT_DIR$/resources/stylus/components/section.styl" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/combinding.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/full-width.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/gridception.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/no-gutter.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/offset.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/responsive-content.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/auto-resize.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/header.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/invidual-sizing.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/flexible-columns.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/grid-align-top.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/grid-align-center.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/grid-align-bottom.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/individual-alignment.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/reverse.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/set-col-first.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/set-col-last.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/text-alignment.jade" />
+        <option value="$PROJECT_DIR$/resources/jade/includes/footer.jade" />
+        <option value="$PROJECT_DIR$/assets/css/flexbox-grid.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1713" />
+    <option name="width" value="1734" />
+    <option name="height" value="1407" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flexbox-grid-stylus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flexbox-grid-stylus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flexbox-grid-stylus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flexbox-grid-stylus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flexbox-grid-stylus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js-jscs-package" value="C:\Users\Peter\AppData\Roaming\npm\node_modules\jscs" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flexbox-grid-less" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Development/Projects/vivid-websolutions/flexbox-grid-stylus/stylus/mixins/grid-framework.styl&#10;colorpi&#9;ACTION&#9;ShowColorPicker&#10;colorpic&#9;ACTION&#9;ShowColorPicker&#10;colorpicker&#9;ACTION&#9;ShowColorPicker" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\Projects\Vivid Websolutions\flexbox-grid-stylus\resources\stylus\components" />
+      <recent name="D:\Development\Projects\Vivid Websolutions\flexbox-grid-stylus\resources\jade\includes" />
+      <recent name="D:\Development\Projects\Vivid Websolutions\flexbox-grid-stylus\resources\stylus\mixins" />
+      <recent name="D:\Development\Projects\Vivid Websolutions\flexbox-grid\scss" />
+      <recent name="D:\Development\Projects\Vivid Websolutions\flexbox-grid\resources\assets\sass\mixins" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\Projects\vivid-websolutions\flexbox-grid-stylus\assets\css" />
+      <recent name="D:\Development\Projects\Vivid Websolutions\flexbox-grid-stylus\stylus\components" />
+      <recent name="D:\Development\Projects\Vivid Websolutions\flexbox-grid-stylus\resources\stylus\libs" />
+      <recent name="D:\Development\Projects\Vivid Websolutions\flexbox-grid-stylus\resources\stylus" />
+      <recent name="fix.stylus" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dad0ea2f-091b-4109-b4e5-9de7198b4fe3" name="Default" comment="" />
+      <created>1448755203194</created>
+      <option name="number" value="Default" />
+      <updated>1448755203194</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Updated and added SCSS">
+      <created>1448826430307</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1448826430307</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated and added SCSS">
+      <created>1448829307827</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1448829307827</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixes gulpfile&#10;Adds more bower.json information&#10;Adds more package.json information&#10;Changed folder structure">
+      <created>1448830162203</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1448830162203</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Commit">
+      <created>1448830808095</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1448830808095</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updates bower.json and package.json to correct version">
+      <created>1448831464570</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1448831464570</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1448834139058</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1448834139058</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added docs">
+      <created>1448920395865</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1448920395865</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1713" y="0" width="1734" height="1407" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24970897" sideWeight="0.40066224" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24970897" sideWeight="0.59933776" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288854" sideWeight="0.5023585" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936803" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32639405" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32639405" sideWeight="0.4976415" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Updated and added SCSS" />
+    <MESSAGE value="Fixes gulpfile&#10;Adds more bower.json information&#10;Adds more package.json information&#10;Changed folder structure" />
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Updates bower.json and package.json to correct version" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Added docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added docs" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.023917995">
+          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7414579">
+          <caret line="133" column="4" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
